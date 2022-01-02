@@ -1,0 +1,2 @@
+# socialFunNetwork
+This website resembles a social network with such features as: registration / authorization of users, search by interests of films and TV series, rating and reviews for each show, the ability to like comments that you liked. The ability to write to another person by going to his page using the link from the comments. Personal account with the ability to add / remove a show to the favorites list, change the avatar.
